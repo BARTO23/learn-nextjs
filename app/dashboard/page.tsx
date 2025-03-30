@@ -5,5 +5,3 @@ export default function DashboardRote() {
     </div>
   )
 }
-
-// documentar como inciar la base de datos con prisma
